@@ -17,7 +17,6 @@ print(7 + 10)
 ### When to use Python?
 
 * You want to do some quick calculations.
-  
 
 * For your new business, you want to develop a database-driven website.
 
